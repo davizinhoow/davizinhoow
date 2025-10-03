@@ -48,6 +48,6 @@
 
 ## 🌐 Conecte-se comigo
 <p align="left">
-  <a href="https://linkedin.com/in/davi-freitas" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="https://www.linkedin.com/in/davi-freitas-789317352/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/></a>
   <a href="mailto:davizinho.f.freitas@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a>
 </p>
