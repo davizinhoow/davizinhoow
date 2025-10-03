@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Davi Ferreira Freitas</h1>
+<h1 align="center">👋 Olá, eu sou o Davi Freitas</h1>
 <h3 align="center">💻 Estudante | 🚀 Estagiário de Programação | 🤖 Entusiasta de IA e Automação</h3>
 
 ---
