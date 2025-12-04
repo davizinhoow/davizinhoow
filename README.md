@@ -4,7 +4,7 @@
 ---
 
 ## 🙋‍♂️ Sobre mim
-- 🎓 Tenho **17 anos** e estou no **2º ano do Ensino Médio integrado ao Técnico em TI** nas **Escolas Padre Anchieta**  
+- 🎓 Tenho **17 anos** e estou no **3º ano do Ensino Médio integrado ao Técnico em TI** nas **Escolas Padre Anchieta**  
 - 💼 Atualmente trabalho como **estagiário de programação na UNIANCHIETA**  
 - 🧑‍💻 Apaixonado por **Python**, **n8n**, **Inteligência Artificial** e **automações**  
 - 🔎 Em constante aprendizado na área de **Back-end com foco em automações e IA**  
