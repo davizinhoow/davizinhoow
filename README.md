@@ -1,27 +1,27 @@
-<h1 align="center">👋 Olá, eu sou o Davi Freitas</h1>
-<h3 align="center">💻 Estudante | 🚀 Estagiário de Programação | 🤖 Entusiasta de IA e Automação</h3>
+<h1 align="center">👋 Hi, I'm Davi Freitas</h1>
+<h3 align="center">💻 Student | 🚀 Programming Intern | 🤖 AI & Automation Enthusiast</h3>
 
 ---
 
-## 🙋‍♂️ Sobre mim
-- 🎓 Tenho **17 anos** e estou no **3º ano do Ensino Médio integrado ao Técnico em TI** nas **Escolas Padre Anchieta**  
-- 💼 Atualmente trabalho como **estagiário de programação na UNIANCHIETA**  
-- 🧑‍💻 Apaixonado por **Python**, **n8n**, **Inteligência Artificial** e **automações**  
-- 🔎 Em constante aprendizado na área de **Full-Stack com foco no Back-end, automações e IA**  
+## 🙋‍♂️ About Me
+- 🎓 I am **17 years old** and currently in the **3rd year of High School integrated with a Technical IT program** at **Padre Anchieta Schools**  
+- 💼 I am currently working as a **Programming Intern at UNIANCHIETA**  
+- 🧑‍💻 Passionate about **Python**, **n8n**, **Artificial Intelligence**, and **automation**  
+- 🔎 Continuously learning in the field of **Full-Stack Development, with a focus on Back-end, automation, and AI**  
 
 ---
 
-## 🚀 Projetos em Destaque
-- 🤖 **Machine Learning para Previsão de Evasão Escolar**  
-  - Criei um modelo em **Python** que analisa diariamente dados dos alunos da **UNIANCHIETA** e prevê possíveis evasões.
-- 💬 **Agente de IA no WhatsApp**  
-  - Desenvolvi com **n8n** um agente conectado ao WhatsApp para responder dúvidas sobre o **Hospital Veterinário da UNIANCHIETA**.
-- 📑 **Automação de Análise de Históricos Acadêmicos**  
-  - Criei uma automação com **n8n** que lê PDFs de históricos escolares e analisa quais disciplinas podem ser dispensadas.
+## 🚀 Featured Projects
+- 🤖 **Machine Learning for Student Dropout Prediction**  
+  - Developed a **Python** model that analyzes student data from **UNIANCHIETA** daily and predicts potential dropouts.  
+- 💬 **AI Agent on WhatsApp**  
+  - Built an agent using **n8n**, integrated with WhatsApp, to answer questions about the **UNIANCHIETA Veterinary Hospital**.  
+- 📑 **Academic Transcript Analysis Automation**  
+  - Created an automation using **n8n** that reads academic transcript PDFs and determines which courses can be waived.  
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Tools and Technologies
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50"/>
@@ -38,13 +38,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="50"/>
-  
-
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davizinhoow&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizinhoow&layout=compact&theme=radical" alt="Top Langs"/>
@@ -52,7 +50,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/davi-freitas-789317352/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/></a>
   <a href="mailto:davizinho.f.freitas@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a>
